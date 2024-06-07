@@ -17,7 +17,7 @@ _binary search tree_.
 
 #### Definition
 
-Example 1:
+Example 1:\
 ![Example 1](https://github.com/homindolentrahar/leet_to_lit/blob/master/108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/assets/example_1.png)
 
 ```
@@ -27,10 +27,10 @@ Output: [0,-3,9,-10,null,5]
 Explanation: [0,-10,5,null,-3,null,9] is also accepted
 ```
 
-![Example 1](https://github.com/homindolentrahar/leet_to_lit/blob/master/108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/assets/example_1_result.png)
+![Example 1 Result](https://github.com/homindolentrahar/leet_to_lit/blob/master/108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/assets/example_1_result.png)
 
-Example 2:
-![Example 1](https://github.com/homindolentrahar/leet_to_lit/blob/master/108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/assets/example_2.png)
+Example 2:\
+![Example 2](https://github.com/homindolentrahar/leet_to_lit/blob/master/108-Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/assets/example_2.png)
 
 ```
 Input: nums = [1,3]
