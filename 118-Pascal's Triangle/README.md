@@ -12,7 +12,7 @@
 
 #### Description
 
-![Pascal Triangle](https://github.com/homindolentrahar/leet_to_lit/blob/master/118-Pascal's%20Triangle/assets/pascal_triangle.gif)
+![Pascal Triangle](https://github.com/homindolentrahar/leet_to_lit/blob/master/118-Pascal's%20Triangle/assets/pascal_triangle.gif)\
 Given an integer`numRows`, return the first `numRows` of**Pascal's triangle**.
 In**Pascal's triangle**, each number is the sum of the two numbers directly above it as shown:
 
